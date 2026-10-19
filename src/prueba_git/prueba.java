@@ -7,7 +7,7 @@ public class prueba {
 		System.out.println(":(");
 		
 		System.out.println("Nooo que era brooma!");
-		System.out.println("Six-seven!");
+		System.out.println("Six-eight!");
 	}
 
 }
